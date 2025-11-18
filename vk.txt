@@ -1,0 +1,5 @@
+coverpic= https://c10.patreonusercontent.com/4/patreon-media/p/campaign/4842667/452146dcfeb04f38853368f554aadde1/eyJ3IjoxNjAwLCJ3ZSI6MX0%3D/18.gif?token-hash=g6HitpHZigKvTCOxoDp--T61h2BEQeCThLTXU5q-Vls%3D&token-time=1764806400
+
+profilepic=https://c10.patreonusercontent.com/4/patreon-media/p/campaign/4842667/aa52624d1cef47ba91c357da4a7859cf/eyJoIjozNjAsInciOjM2MH0%3D/4.gif?token-hash=dgt3P6ws4cGuaBxZGJaCuo9Rmo0U_PntU0jSoqP9gHQ%3D&token-time=1763683200
+
+To Run =cd 'c:\Users\varun k\OneDrive\Desktop\project\course\project\Startup-Funder'; npm run dev
