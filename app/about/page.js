@@ -13,7 +13,7 @@ const page = () => {
       <p className="text-lg text-gray-700 dark:text-gray-300 mb-6">
         <strong>Startup Funder</strong> is a platform built to empower creators, innovators, and entrepreneurs. 
         We help people with great ideas receive financial support from a community that believes in their work.
-        Whether you're a creator, developer, student, or founder, Startup Funder gives you the freedom to build 
+        Whether you&apos;re a creator, developer, student, or founder, Startup Funder gives you the freedom to build 
         without limits.
       </p>
 
